@@ -1,0 +1,3 @@
+Pandas dataframe.diff() is used to find the first discrete difference of objects over the given axis. We can provide a period value to shift for forming the difference.
+df.diff(axis = 0, periods = 1) 
+
